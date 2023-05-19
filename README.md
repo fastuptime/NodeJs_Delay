@@ -2,7 +2,7 @@
 
 ## Code;
 
-```
+```js
 let delay = ms => new Promise(res => setTimeout(res, ms));
 ```
 
