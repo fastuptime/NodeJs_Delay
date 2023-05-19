@@ -1,12 +1,12 @@
 # NodeJs_Delay
 
-##Code;
+## Code;
 
 ```
 let delay = ms => new Promise(res => setTimeout(res, ms));
 ```
 
-##Example;
+## Example;
 
 ```
 await delay(5000); // 5 saniye bekle
