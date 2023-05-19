@@ -8,7 +8,7 @@ let delay = ms => new Promise(res => setTimeout(res, ms));
 
 ## Example;
 
-```
+```js
 await delay(5000); // 5 saniye bekle
 ```
 
